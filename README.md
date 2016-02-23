@@ -28,3 +28,7 @@ To add a new one-time task all you need to do is type the name of the task and p
 This screenshot shows the result of assigning the task "Clean Room" to an employee.
 </br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/25220013915/in/album-72157663146153142/" title="Screen Shot 2016-02-23 at 11.44.50 AM"><img src="https://farm2.staticflickr.com/1627/25220013915_0139670c63.jpg" width="449" height="420" alt="Screen Shot 2016-02-23 at 11.44.50 AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+A one-time task will only exist for the run-time of the application but daily tasks will get saved so each time you launch the application that task will be in the list. 
+
+This application would be very useful to any business owner who has many employees and jobs to delegate.
