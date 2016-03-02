@@ -13,7 +13,7 @@ A new window will open where you can name, set a type, and define the availabili
 </br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/24589366674/in/album-72157663146153142/" title="Screen Shot 2016-02-23 at 11.35.08 AM"><img src="https://farm2.staticflickr.com/1585/24589366674_f27fd74203.jpg" width="213" height="500" alt="Screen Shot 2016-02-23 at 11.35.08 AM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-After creation the employee will show up in your list of employees. When the employee is selected the name, availability, and current day are displayed in the top-right region.
+After creation the employee will show up in the employee list. 
 </br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/25426552195/in/dateposted-public/" title="Screen Shot 2016-03-01 at 7.22.47 PM"><img src="https://farm2.staticflickr.com/1625/25426552195_170b61b696.jpg" width="500" height="469" alt="Screen Shot 2016-03-01 at 7.22.47 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -25,7 +25,7 @@ To add a new one-time task all you need to do is type the name of the task and p
 </br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/25308216882/in/dateposted-public/" title="Screen Shot 2016-03-01 at 7.24.09 PM"><img src="https://farm2.staticflickr.com/1659/25308216882_85fd19c47e.jpg" width="500" height="470" alt="Screen Shot 2016-03-01 at 7.24.09 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-This screenshot shows the result of assigning the task "Clean Room" to an employee.
+This screenshot shows the result of assigning the task "Clean Room" to an employee. In the upper right region you can see the selected employee and their availability.
 </br>
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/130714741@N08/25058974299/in/dateposted-public/" title="Screen Shot 2016-03-01 at 7.24.40 PM"><img src="https://farm2.staticflickr.com/1627/25058974299_452e3f2f46.jpg" width="500" height="469" alt="Screen Shot 2016-03-01 at 7.24.40 PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
